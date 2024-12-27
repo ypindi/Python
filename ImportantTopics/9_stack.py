@@ -38,9 +38,58 @@
 
 
 
-
 from queue import LifoQueue
 
-stack = LifoQueue()
+# stack = LifoQueue() 
+stack = LifoQueue(maxsize=5)  # Optional: Set maxsize, or use infinite size by default
 
 print(f'Is stack full? {stack.full()}')
+
+stack.put(5)
+stack.put(10)
+stack.put(20)
+stack.put(30)
+print(stack.qsize())
+
+# Pop an element
+print("Popped Element:", stack.get())
+
+print(stack.qsize())
+
+print(stack.get())  # Removes and returns the top element
+
+print(stack.empty())  # Returns True if stack is empty, else False
+
+print(stack.full())  # Returns True if stack is full (reaches maxsize)
+
+print(stack.qsize())  # Returns the number of elements in the stack
+
+
+try:
+    print(stack.get(block=False))  # Raises an exception if empty
+except:
+    print("Stack is empty!")
+
+# OR use a timeout
+try:
+    print(stack.get(timeout=2))  # Waits for 2 seconds, then raises an exception
+except:
+    print("Timeout: No element to pop!")
+
+
+
+try:
+    stack.put(40, block=False)  # Raises an exception if full
+except:
+    print("Stack is full!")
+
+# OR use a timeout
+try:
+    stack.put(50, timeout=2)  # Waits for 2 seconds, then raises an exception
+except:
+    print("Timeout: Stack is full!")
+
+
+
+while not stack.empty():
+    print("Popped:", stack.get())
