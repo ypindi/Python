@@ -162,8 +162,16 @@ def group_anagrams(words:list[str]) -> list:
     for word in words:
         sorted_word = ''.join(sorted(word))
         hash_map[sorted_word].append(word)
+    print(hash_map)
+    print(hash_map.values())
     return list(hash_map.values())
 
 
 words = ["eat", "tea", "tan", "ate", "nat", "bat"]
 print(group_anagrams(words))
+
+# Output
+# PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Python\ImportantTopics> py .\8_hashMaps.py
+# defaultdict(<class 'list'>, {'aet': ['eat', 'tea', 'ate'], 'ant': ['tan', 'nat'], 'abt': ['bat']})
+# dict_values([['eat', 'tea', 'ate'], ['tan', 'nat'], ['bat']])
+# [['eat', 'tea', 'ate'], ['tan', 'nat'], ['bat']]
