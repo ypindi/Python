@@ -2,7 +2,7 @@ from collections import deque
 
 # BFS from given source s
 def bfs(adj, s):
-  
+
     # Create a queue for BFS
     q = deque()
     
@@ -56,3 +56,18 @@ if __name__ == "__main__":
     print("BFS starting from 0: ")
     print(f'the adjacency list initialised is: {adj}')
     bfs(adj, 0)
+
+
+
+# Output
+# PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Python\ImportantTopics> py .\6_BFS.py
+# [[], [], [], [], []]
+# BFS starting from 0: 
+# the adjacency list initialised is: [[1, 2], [0, 3, 4], [0, 4], [1], [1, 2]]
+# Visited Initially: [False, False, False, False, False]
+# 0 Done one iteration 
+# 1 Done one iteration 
+# 2 Done one iteration 
+# 3 Done one iteration 
+# 4 Done one iteration 
+# PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Python\ImportantTopics> 
