@@ -87,3 +87,59 @@ printLeafNodes(Root, adj)
 # Printing the degrees of each node
 print("The degrees of each node are:")
 printDegrees(Root, adj)
+
+
+
+# PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Python\ImportantTopics> py .\12_Trees.py    
+# The adj is [[], [2, 3, 4], [1, 5, 6], [1], [1, 7], [2], [2], [4]]
+# The length of adj is 8
+# The parents of each node are:
+# 1->Root
+# 2->1
+# 5->2
+# 6->2
+# 3->1
+# 4->1
+# 7->4
+# The children of each node are:
+# 1->
+# 2
+# 3
+# 4
+
+# 2->
+# 5
+# 6
+
+# 3->
+
+# 4->
+# 7
+
+# 5->
+
+# 6->
+
+# 7->
+
+# The leaf nodes of the tree are:
+# 3
+# 5
+# 6
+# 7
+# The degrees of each node are:
+# 1 :
+# 3
+# 2 :
+# 2
+# 3 :
+# 0
+# 4 :
+# 1
+# 5 :
+# 0
+# 6 :
+# 0
+# 7 :
+# 0
+# PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Python\ImportantTopics> 

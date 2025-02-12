@@ -12,3 +12,16 @@ def selectionSort(arr: list[int]) -> list[int]:
 arr = [3,1325,82,5,92,35,24]
 sortedArr = selectionSort(arr)
 print(sortedArr)
+
+
+
+
+def selection(arr: list[int]) -> list[int]:
+    n = len(arr)
+    for i in range(n-1):
+        minIndex = i
+        for j in range(i+1, n):
+            if arr[j]<arr[minIndex]:
+                minIndex = j
+        arr[i], arr[minIndex] = arr[minIndex], arr[i]
+    return arr

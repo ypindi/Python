@@ -23,3 +23,16 @@ print(sortedArray)
 #             arr[j], arr[j - 1] = arr[j - 1], arr[j]  # Swap directly
 #             j -= 1
 #     return arr
+
+
+
+
+# def insertion(arr: list[int]):
+#     for i in range(1,len(arr)):
+#         j=i-1
+#         key = arr[i]
+#         while(j>=0 and arr[j]>key):
+#             arr[j+1]=arr[j]
+#             j-=1
+#         arr[j+1]=key
+#     return arr
