@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=lvO88XxNAzs
+
+
+List of Problems from Leetcode:
+Arrays:
+1. 217
+2. 268
+3. 448
