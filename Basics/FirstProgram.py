@@ -1,5 +1,5 @@
 print(4+5)
-x=1;
+x=1
 if x==1:
     print("Yes x is 1")
 else:
