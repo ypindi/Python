@@ -28,5 +28,8 @@ Dynamic Programming:
 21. 303. Range Sum Query - Immutable
 
 Backtracking:
+a. Permutations
 22. 784. Letter Case Permutation
 23. 78. Subsets
+
+b. Combinations
