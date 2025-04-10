@@ -34,3 +34,9 @@ a. Permutations
 
 b. Combinations
 24. 77. Combinations
+
+
+Additional:
+Binary Search Tree:
+1. 104. Maximum Depth of Binary Tree (DFS)
+2. 102. Binary Tree Level Order Traversal (BFS)
