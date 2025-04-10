@@ -40,6 +40,7 @@ Linked Lists:
 26. 876. Middle of the Linked List
 27. 141. Linked List Cycle
 28. 206. Reverse Linked List
+29. 203. Remove Linked List Elements
 
 Additional:
 Binary Search Tree:
