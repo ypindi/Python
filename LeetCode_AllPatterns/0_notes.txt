@@ -34,7 +34,7 @@ a. Permutations
 
 b. Combinations
 24. 77. Combinations
-
+25. 46. Permutations
 
 Additional:
 Binary Search Tree:
