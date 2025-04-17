@@ -46,6 +46,7 @@ Linked Lists:
 
 Stack:
 32. 155. Min Stack
+33. 20. Valid Parentheses
 
 Additional:
 Binary Search Tree:
