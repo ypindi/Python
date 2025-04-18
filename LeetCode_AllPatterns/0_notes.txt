@@ -47,6 +47,7 @@ Linked Lists:
 Stack:
 32. 155. Min Stack
 33. 20. Valid Parentheses
+34. 150. Evaluate Reverse Polish Notation
 
 Additional:
 Binary Search Tree:
