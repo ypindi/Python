@@ -48,6 +48,10 @@ Stack:
 32. 155. Min Stack
 33. 20. Valid Parentheses
 34. 150. Evaluate Reverse Polish Notation
+Stack Sorting (LeetCode_AllPatterns\1_Stack_sorting.py)
+
+Queues:
+35. 225. Implement Stack using Queues
 
 Additional:
 Binary Search Tree:
