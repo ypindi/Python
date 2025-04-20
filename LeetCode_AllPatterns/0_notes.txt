@@ -52,6 +52,7 @@ Stack Sorting (LeetCode_AllPatterns\1_Stack_sorting.py)
 
 Queues:
 35. 225. Implement Stack using Queues
+36. 2073. Time Needed to Buy Tickets
 
 Additional:
 Binary Search Tree:
