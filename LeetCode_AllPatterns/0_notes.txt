@@ -54,6 +54,9 @@ Queues:
 35. 225. Implement Stack using Queues
 36. 2073. Time Needed to Buy Tickets
 
+Binary Trees:
+37. 637. Average of Levels in Binary Tree
+
 Additional:
 Binary Search Tree:
 1. 104. Maximum Depth of Binary Tree (DFS)
