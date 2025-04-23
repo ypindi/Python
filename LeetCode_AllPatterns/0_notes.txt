@@ -56,6 +56,10 @@ Queues:
 
 Binary Trees:
 37. 637. Average of Levels in Binary Tree
+38. 104. Maximum Depth of Binary Tree
+39. 102. Binary Tree Level Order Traversal
+40. 100. Same Tree
+41. 112. Path Sum
 
 Additional:
 Binary Search Tree:
