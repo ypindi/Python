@@ -60,6 +60,7 @@ Binary Trees:
 39. 102. Binary Tree Level Order Traversal
 40. 100. Same Tree
 41. 112. Path Sum
+42. 543. Diameter of Binary Tree
 
 Additional:
 Binary Search Tree:
