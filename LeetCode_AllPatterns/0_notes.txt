@@ -61,6 +61,7 @@ Binary Trees:
 40. 100. Same Tree
 41. 112. Path Sum
 42. 543. Diameter of Binary Tree
+43. 226. Invert Binary Tree
 
 Additional:
 Binary Search Tree:
