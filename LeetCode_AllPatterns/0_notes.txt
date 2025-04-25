@@ -62,6 +62,7 @@ Binary Trees:
 41. 112. Path Sum
 42. 543. Diameter of Binary Tree
 43. 226. Invert Binary Tree
+44. 236. Lowest Common Ancestor of a Binary Tree
 
 Additional:
 Binary Search Tree:
