@@ -67,6 +67,7 @@ Binary Trees:
 Binary Search Trees:
 45. 700. Search in a Binary Search Tree
 46. 701. Insert into a Binary Search Tree
+47. 108. Convert Sorted Array to Binary Search Tree
 
 Additional:
 Binary Search Tree:
