@@ -64,6 +64,9 @@ Binary Trees:
 43. 226. Invert Binary Tree
 44. 236. Lowest Common Ancestor of a Binary Tree
 
+Binary Search Trees:
+45. 700. Search in a Binary Search Tree
+
 Additional:
 Binary Search Tree:
 1. 104. Maximum Depth of Binary Tree (DFS)
