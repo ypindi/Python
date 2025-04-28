@@ -70,6 +70,8 @@ Binary Search Trees:
 47. 108. Convert Sorted Array to Binary Search Tree
 48. 653. Two Sum IV - Input is a BST
 49. 235. Lowest Common Ancestor of a Binary Search Tree
+50. 530. Minimum Absolute Difference in BST (or)
+51. 783. Minimum Distance Between BST Nodes (same as above problem)
 
 Additional:
 Binary Search Tree:
