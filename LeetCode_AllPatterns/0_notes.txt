@@ -72,6 +72,7 @@ Binary Search Trees:
 49. 235. Lowest Common Ancestor of a Binary Search Tree
 50. 530. Minimum Absolute Difference in BST (or)
 51. 783. Minimum Distance Between BST Nodes (same as above problem)
+52. 1382. Balance a Binary Search Tree
 
 Additional:
 Binary Search Tree:
