@@ -73,6 +73,7 @@ Binary Search Trees:
 50. 530. Minimum Absolute Difference in BST (or)
 51. 783. Minimum Distance Between BST Nodes (same as above problem)
 52. 1382. Balance a Binary Search Tree
+53. 450. Delete Node in a BST
 
 Additional:
 Binary Search Tree:
