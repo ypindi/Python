@@ -75,6 +75,9 @@ Binary Search Trees:
 52. 1382. Balance a Binary Search Tree
 53. 450. Delete Node in a BST
 
+Heaps:
+54. 215. Kth Largest Element in an Array
+
 Additional:
 Binary Search Tree:
 1. 104. Maximum Depth of Binary Tree (DFS)
