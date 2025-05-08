@@ -1,7 +1,8 @@
 Leetcode Problems Solved:
 
 Easy:
-Strings:
+
+a. Strings:
 1. 14. Longest Common Prefix
 
 
@@ -9,6 +10,7 @@ Strings:
 /////////////////////////////////////////////
 /////////////////////////////////////////////
 
+Hard:
 
-Dynamic Programming:
+a. Dynamic Programming:
 1. 10. Regular Expression Matching
