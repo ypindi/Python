@@ -5,6 +5,9 @@ Easy:
 a. Strings:
 1. 14. Longest Common Prefix
 
+b. Arrays:
+1. 26. Remove Duplicates from Sorted Array
+
 
 /////////////////////////////////////////////
 /////////////////////////////////////////////
