@@ -4,6 +4,7 @@ Easy:
 
 a. Strings:
 1. 14. Longest Common Prefix
+2. 58. Length of Last Word
 
 b. Arrays:
 1. 26. Remove Duplicates from Sorted Array
