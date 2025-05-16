@@ -20,6 +20,9 @@ c. Numbers
 d. Linked Lists
 1. 83. Remove Duplicates from Sorted List
 
+e. 2-Pointer Technique
+1. 88. Merge Sorted Array
+
 
 /////////////////////////////////////////////
 /////////////////////////////////////////////
