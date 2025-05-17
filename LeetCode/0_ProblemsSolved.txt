@@ -23,8 +23,9 @@ d. Linked Lists
 e. 2-Pointer Technique
 1. 88. Merge Sorted Array
 
-f. Binary Tree:
+f. Trees:
 1. 94. Binary Tree Inorder Traversal
+2. 101. Symmetric Tree
 
 /////////////////////////////////////////////
 /////////////////////////////////////////////
