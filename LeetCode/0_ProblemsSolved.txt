@@ -26,6 +26,7 @@ e. 2-Pointer Technique
 f. Trees:
 1. 94. Binary Tree Inorder Traversal
 2. 101. Symmetric Tree
+3. 104. Maximum Depth of Binary Tree
 
 /////////////////////////////////////////////
 /////////////////////////////////////////////
