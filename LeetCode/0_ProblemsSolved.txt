@@ -13,6 +13,7 @@ b. Arrays:
 3. 28. Find the Index of the First Occurrence in a String
 4. 66. Plus One
 5. 136. Single Number
+6. 118. Pascal's Triangle
 
 c. Numbers
 1. 69. Sqrt(x)
