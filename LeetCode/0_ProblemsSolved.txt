@@ -14,6 +14,7 @@ b. Arrays:
 4. 66. Plus One
 5. 136. Single Number
 6. 118. Pascal's Triangle
+7. 119. Pascal's Triangle II
 
 c. Numbers
 1. 69. Sqrt(x)
