@@ -31,6 +31,7 @@ f. Trees:
 2. 101. Symmetric Tree
 3. 104. Maximum Depth of Binary Tree
 4. 110. Balanced Binary Tree
+5. 144. Binary Tree Preorder Traversal
 
 /////////////////////////////////////////////
 /////////////////////////////////////////////
