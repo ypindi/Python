@@ -22,6 +22,7 @@ c. Numbers
 
 d. Linked Lists
 1. 83. Remove Duplicates from Sorted List
+2. 160. Intersection of Two Linked Lists (IMPORTANT!!)
 
 e. 2-Pointer Technique
 1. 88. Merge Sorted Array
@@ -33,6 +34,7 @@ f. Trees:
 4. 110. Balanced Binary Tree
 5. 144. Binary Tree Preorder Traversal
 6. 145. Binary Tree Postorder Traversal
+
 /////////////////////////////////////////////
 /////////////////////////////////////////////
 /////////////////////////////////////////////
