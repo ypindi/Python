@@ -7,7 +7,7 @@ a. Strings:
 2. 58. Length of Last Word
 3. 67. Add Binary
 4. 125. Valid Palindrome
-5. 168. Excel Sheet Column Title
+5. 168. Excel Sheet Column Title (IMPORTANT!!)
 
 b. Arrays:
 1. 26. Remove Duplicates from Sorted Array
