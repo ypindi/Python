@@ -38,6 +38,9 @@ f. Trees:
 5. 144. Binary Tree Preorder Traversal
 6. 145. Binary Tree Postorder Traversal
 
+g. SQL
+1. 175. Combine Two Tables
+
 
 /////////////////////////////////////////////
 /////////////////////////////////////////////
