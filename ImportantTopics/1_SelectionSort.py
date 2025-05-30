@@ -15,7 +15,7 @@ print(sortedArr)
 
 
 
-
+# better one because going only till n-2 position.
 def selection(arr: list[int]) -> list[int]:
     n = len(arr)
     for i in range(n-1):
