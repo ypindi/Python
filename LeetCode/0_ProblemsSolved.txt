@@ -48,8 +48,9 @@ h. Bits
 1. 190. Reverse Bits
 2. 191. Number of 1 Bits
 
-i. Regular Expressions / Bash scripting
+i. Regular Expressions / Bash scripting / Shell
 1. 193. Valid Phone Numbers
+2. 195. Tenth Line
 
 /////////////////////////////////////////////
 /////////////////////////////////////////////
