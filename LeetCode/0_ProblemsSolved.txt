@@ -43,6 +43,7 @@ g. SQL
 2. 181. Employees Earning More Than Their Managers
 3. 182. Duplicate Emails
 4. 183. Customers Who Never Order
+5. 196. Delete Duplicate Emails
 
 h. Bits
 1. 190. Reverse Bits
