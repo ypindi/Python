@@ -42,6 +42,7 @@ f. Trees:
 4. 110. Balanced Binary Tree
 5. 144. Binary Tree Preorder Traversal
 6. 145. Binary Tree Postorder Traversal
+7. 222. Count Complete Tree Nodes
 
 g. SQL
 1. 175. Combine Two Tables
