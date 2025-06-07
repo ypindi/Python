@@ -28,6 +28,7 @@ c. Numbers
 2. 202. Happy Number
 3. 231. Power of Two
 4. 258. Add Digits
+5. 263. Ugly Number
 
 d. Linked Lists
 1. 83. Remove Duplicates from Sorted List
