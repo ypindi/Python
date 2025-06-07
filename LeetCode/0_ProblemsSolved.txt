@@ -27,6 +27,7 @@ c. Numbers
 1. 69. Sqrt(x)
 2. 202. Happy Number
 3. 231. Power of Two
+4. 258. Add Digits
 
 d. Linked Lists
 1. 83. Remove Duplicates from Sorted List
