@@ -26,6 +26,7 @@ b. Arrays:
 c. Numbers
 1. 69. Sqrt(x)
 2. 202. Happy Number
+3. 231. Power of Two
 
 d. Linked Lists
 1. 83. Remove Duplicates from Sorted List
