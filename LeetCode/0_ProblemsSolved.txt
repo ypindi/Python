@@ -29,6 +29,7 @@ c. Numbers
 3. 231. Power of Two
 4. 258. Add Digits
 5. 263. Ugly Number
+6. 268. Missing Number
 
 d. Linked Lists
 1. 83. Remove Duplicates from Sorted List
