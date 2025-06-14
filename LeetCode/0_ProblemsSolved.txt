@@ -36,6 +36,7 @@ c. Numbers
 7. 278. First Bad Version (IMPORTANT!!)..........
 8. 292. Nim Game
 9. 326. Power of Three
+10. 342. Power of Four (IMPORTANT!!)..........
 
 d. Linked Lists
 1. 83. Remove Duplicates from Sorted List
