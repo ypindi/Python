@@ -24,6 +24,7 @@ b. Arrays:
 10. 219. Contains Duplicate II
 11. 228. Summary Ranges (Didn't understand)........
 12. 283. Move Zeroes
+13. 303. Range Sum Query - Immutable
 
 c. Numbers
 1. 69. Sqrt(x)
