@@ -38,6 +38,7 @@ c. Numbers
 8. 292. Nim Game
 9. 326. Power of Three (IMPORTANT!!)..........
 10. 342. Power of Four (IMPORTANT!!)..........
+11. 367. Valid Perfect Square
 
 d. Linked Lists
 1. 83. Remove Duplicates from Sorted List
