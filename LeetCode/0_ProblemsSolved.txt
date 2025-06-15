@@ -78,6 +78,7 @@ i. Regular Expressions / Bash scripting / Shell
 j. Dictionary
 1. 205. Isomorphic Strings
 2. 242. Valid Anagram
+3. 350. Intersection of Two Arrays II 
 
 k. Stack / Queue
 1. 232. Implement Queue using Stacks
