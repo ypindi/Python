@@ -82,6 +82,7 @@ j. Dictionary
 2. 242. Valid Anagram
 3. 350. Intersection of Two Arrays II (IMPORTANT!!)..........
 4. 387. First Unique Character in a String
+5. 389. Find the Difference
 
 k. Stack / Queue
 1. 232. Implement Queue using Stacks
