@@ -41,6 +41,7 @@ c. Numbers
 10. 342. Power of Four (IMPORTANT!!)..........
 11. 367. Valid Perfect Square
 12. 374. Guess Number Higher or Lower
+13. 401. Binary Watch (IMPORTANT!!)..........
 
 d. Linked Lists
 1. 83. Remove Duplicates from Sorted List
