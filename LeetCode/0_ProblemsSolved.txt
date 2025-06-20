@@ -62,6 +62,7 @@ f. Trees:
 6. 145. Binary Tree Postorder Traversal
 7. 222. Count Complete Tree Nodes
 8. 257. Binary Tree Paths
+9. 404. Sum of Left Leaves
 
 g. SQL
 1. 175. Combine Two Tables
