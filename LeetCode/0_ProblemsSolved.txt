@@ -87,6 +87,7 @@ j. Dictionary
 3. 350. Intersection of Two Arrays II (IMPORTANT!!)..........
 4. 387. First Unique Character in a String
 5. 389. Find the Difference
+6. 409. Longest Palindrome (IMPORTANT!!)..........
 
 k. Stack / Queue
 1. 232. Implement Queue using Stacks
