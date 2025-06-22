@@ -27,6 +27,7 @@ b. Arrays:
 11. 228. Summary Ranges (Didn't understand)........
 12. 283. Move Zeroes
 13. 303. Range Sum Query - Immutable
+14. 412. Fizz Buzz
 
 c. Numbers
 1. 69. Sqrt(x)
