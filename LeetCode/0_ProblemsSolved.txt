@@ -12,6 +12,7 @@ a. Strings:
 7. 290. Word Pattern (IMPORTANT!!)..........
 8. 344. Reverse String
 9. 392. Is Subsequence (IMPORTANT!!)..........
+10. 415. Add Strings
 
 b. Arrays:
 1. 26. Remove Duplicates from Sorted Array
