@@ -46,6 +46,7 @@ c. Numbers
 12. 374. Guess Number Higher or Lower
 13. 401. Binary Watch (IMPORTANT!!)..........
 14. 405. Convert a Number to Hexadecimal (IMPORTANT!!)..........
+15. 441. Arranging Coins
 
 d. Linked Lists
 1. 83. Remove Duplicates from Sorted List
