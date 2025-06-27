@@ -30,6 +30,7 @@ b. Arrays:
 12. 283. Move Zeroes
 13. 303. Range Sum Query - Immutable
 14. 412. Fizz Buzz
+15. 448. Find All Numbers Disappeared in an Array (IMPORTANT!!)..........
 
 c. Numbers
 1. 69. Sqrt(x)
