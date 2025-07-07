@@ -84,6 +84,7 @@ h. Bits
 1. 190. Reverse Bits
 2. 191. Number of 1 Bits
 3. 2220. Minimum Bit Flips to Convert Number
+4. 461. Hamming Distance (same as 2220.)
 
 i. Regular Expressions / Bash scripting / Shell
 1. 193. Valid Phone Numbers
