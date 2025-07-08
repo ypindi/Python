@@ -15,6 +15,7 @@ a. Strings:
 10. 415. Add Strings
 11. 434. Number of Segments in a String (IMPORTANT!!)..........
 12. 459. Repeated Substring Pattern (IMPORTANT!!)..........
+13. 482. License Key Formatting
 
 b. Arrays:
 1. 26. Remove Duplicates from Sorted Array
