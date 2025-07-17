@@ -14,6 +14,8 @@ a. Strings:
 9. 392. Is Subsequence (IMPORTANT!!)..........
 10. 415. Add Strings
 11. 434. Number of Segments in a String (IMPORTANT!!)..........
+12. 459. Repeated Substring Pattern (IMPORTANT!!)..........
+13. 482. License Key Formatting
 
 b. Arrays:
 1. 26. Remove Duplicates from Sorted Array
@@ -32,6 +34,7 @@ b. Arrays:
 14. 412. Fizz Buzz
 15. 448. Find All Numbers Disappeared in an Array (IMPORTANT!!)..........
 16. 455. Assign Cookies
+17. 463. Island Perimeter (IMPORTANT!!)..........
 
 c. Numbers
 1. 69. Sqrt(x)
@@ -82,6 +85,10 @@ g. SQL
 h. Bits
 1. 190. Reverse Bits
 2. 191. Number of 1 Bits
+3. 2220. Minimum Bit Flips to Convert Number
+4. 461. Hamming Distance (same as 2220.)
+5. 1009. Complement of Base 10 Integer (IMPORTANT!!)..........
+6. 476. Number Complement (same as 1009.)
 
 i. Regular Expressions / Bash scripting / Shell
 1. 193. Valid Phone Numbers
