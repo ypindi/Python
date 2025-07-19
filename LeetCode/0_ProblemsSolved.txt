@@ -53,6 +53,7 @@ c. Numbers
 13. 401. Binary Watch (IMPORTANT!!)..........
 14. 405. Convert a Number to Hexadecimal (IMPORTANT!!)..........
 15. 441. Arranging Coins
+16. 492. Construct the Rectangle
 
 d. Linked Lists
 1. 83. Remove Duplicates from Sorted List
