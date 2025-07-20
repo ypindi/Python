@@ -36,6 +36,7 @@ b. Arrays:
 16. 455. Assign Cookies
 17. 463. Island Perimeter (IMPORTANT!!)..........
 18. 485. Max Consecutive Ones
+19. 495. Teemo Attacking
 
 c. Numbers
 1. 69. Sqrt(x)
