@@ -37,6 +37,7 @@ b. Arrays:
 17. 463. Island Perimeter (IMPORTANT!!)..........
 18. 485. Max Consecutive Ones
 19. 495. Teemo Attacking
+20. 496. Next Greater Element I
 
 c. Numbers
 1. 69. Sqrt(x)
