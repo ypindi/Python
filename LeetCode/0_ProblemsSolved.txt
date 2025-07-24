@@ -78,6 +78,7 @@ f. Trees:
 7. 222. Count Complete Tree Nodes
 8. 257. Binary Tree Paths
 9. 404. Sum of Left Leaves
+10. 501. Find Mode in Binary Search Tree
 
 g. SQL
 1. 175. Combine Two Tables
