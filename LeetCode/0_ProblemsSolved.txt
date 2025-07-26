@@ -39,6 +39,7 @@ b. Arrays:
 18. 485. Max Consecutive Ones
 19. 495. Teemo Attacking
 20. 496. Next Greater Element I
+21. 506. Relative Ranks (IMPORTANT!!)..........
 
 c. Numbers
 1. 69. Sqrt(x)
