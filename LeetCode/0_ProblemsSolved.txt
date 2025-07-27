@@ -59,6 +59,7 @@ c. Numbers
 15. 441. Arranging Coins
 16. 492. Construct the Rectangle
 17. 504. Base 7
+18. 507. Perfect Number
 
 d. Linked Lists
 1. 83. Remove Duplicates from Sorted List
