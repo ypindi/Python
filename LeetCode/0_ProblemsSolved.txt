@@ -91,6 +91,7 @@ g. SQL
 4. 183. Customers Who Never Order
 5. 196. Delete Duplicate Emails
 6. 197. Rising Temperature
+7. 511. Game Play Analysis I
 
 h. Bits
 1. 190. Reverse Bits
