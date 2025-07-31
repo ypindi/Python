@@ -17,6 +17,7 @@ a. Strings:
 12. 459. Repeated Substring Pattern (IMPORTANT!!)..........
 13. 482. License Key Formatting
 14. 500. Keyboard Row
+15. 520. Detect Capital
 
 b. Arrays:
 1. 26. Remove Duplicates from Sorted Array
