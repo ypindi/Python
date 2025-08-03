@@ -18,6 +18,7 @@ a. Strings:
 13. 482. License Key Formatting
 14. 500. Keyboard Row
 15. 520. Detect Capital
+16. 521. Longest Uncommon Subsequence I
 
 b. Arrays:
 1. 26. Remove Duplicates from Sorted Array
