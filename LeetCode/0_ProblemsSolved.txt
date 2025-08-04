@@ -20,6 +20,7 @@ a. Strings:
 15. 520. Detect Capital
 16. 521. Longest Uncommon Subsequence I
 17. 541. Reverse String II (IMPORTANT!!)..........
+18. 551. Student Attendance Record I
 
 b. Arrays:
 1. 26. Remove Duplicates from Sorted Array
