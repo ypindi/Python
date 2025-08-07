@@ -45,6 +45,7 @@ b. Arrays:
 19. 495. Teemo Attacking
 20. 496. Next Greater Element I
 21. 506. Relative Ranks (IMPORTANT!!)..........
+22. 561. Array Partition
 
 c. Numbers
 1. 69. Sqrt(x)
