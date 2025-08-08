@@ -90,6 +90,7 @@ f. Trees:
 9. 404. Sum of Left Leaves
 10. 501. Find Mode in Binary Search Tree
 11. 559. Maximum Depth of N-ary Tree
+12. 563. Binary Tree Tilt
 
 g. SQL
 1. 175. Combine Two Tables
