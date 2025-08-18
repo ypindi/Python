@@ -45,6 +45,8 @@ b. Arrays:
 19. 495. Teemo Attacking
 20. 496. Next Greater Element I
 21. 506. Relative Ranks (IMPORTANT!!)..........
+22. 561. Array Partition
+23. 575. Distribute Candies
 
 c. Numbers
 1. 69. Sqrt(x)
@@ -89,6 +91,8 @@ f. Trees:
 9. 404. Sum of Left Leaves
 10. 501. Find Mode in Binary Search Tree
 11. 559. Maximum Depth of N-ary Tree
+12. 563. Binary Tree Tilt
+13. 572. Subtree of Another Tree (IMPORTANT!!)..........
 
 g. SQL
 1. 175. Combine Two Tables
@@ -98,7 +102,8 @@ g. SQL
 5. 196. Delete Duplicate Emails
 6. 197. Rising Temperature
 7. 511. Game Play Analysis I
-8. 584. Find Customer Referee
+8. 577. Employee Bonus
+9. 584. Find Customer Referee
 
 h. Bits
 1. 190. Reverse Bits
@@ -128,6 +133,9 @@ l. Sets
 
 m. Heaps
 1. 414. Third Maximum Number (IMPORTANT!!)..........
+
+n. Matrix
+1. 566. Reshape the Matrix
 
 /////////////////////////////////////////////
 /////////////////////////////////////////////
