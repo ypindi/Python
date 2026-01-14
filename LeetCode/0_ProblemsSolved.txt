@@ -93,6 +93,7 @@ f. Trees:
 11. 559. Maximum Depth of N-ary Tree
 12. 563. Binary Tree Tilt
 13. 572. Subtree of Another Tree (IMPORTANT!!)..........
+14. 589. N-ary Tree Preorder Traversal
 
 g. SQL
 1. 175. Combine Two Tables
