@@ -104,6 +104,7 @@ g. SQL
 6. 197. Rising Temperature
 7. 511. Game Play Analysis I
 8. 577. Employee Bonus
+9. 584. Find Customer Referee
 
 h. Bits
 1. 190. Reverse Bits
@@ -148,6 +149,10 @@ a. Stack
 
 b. Matrix
 1. 54. Spiral Matrix
+
+c. Arrays
+1. 16. 3Sum Closest
+2. 17. Letter Combinations of a Phone Number
 
 /////////////////////////////////////////////
 /////////////////////////////////////////////
