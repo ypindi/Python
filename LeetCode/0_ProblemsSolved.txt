@@ -155,6 +155,7 @@ c. Arrays
 2. 17. Letter Combinations of a Phone Number
 3. 592. Fraction Addition and Subtraction
 4. 18. 4Sum
+5. 22. Generate Parentheses (IMPORTANT)
 
 d. Linked Lists
 1. 19. Remove Nth Node From End of List
