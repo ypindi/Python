@@ -169,3 +169,12 @@ Hard:
 
 a. Dynamic Programming:
 1. 10. Regular Expression Matching
+
+b. Linked Lists:
+1. 23. Merge k Sorted Lists
+# printout of how the heap will look like
+# [
+#     (1, 0, ListNode{val: 1, next: ListNode{val: 4, next: ListNode{val: 5, next: None}}}), 
+#     (1, 1, ListNode{val: 1, next: ListNode{val: 3, next: ListNode{val: 4, next: None}}}), 
+#     (2, 2, ListNode{val: 2, next: ListNode{val: 6, next: None}})
+# ]
