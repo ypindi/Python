@@ -158,6 +158,7 @@ c. Arrays
 5. 22. Generate Parentheses (IMPORTANT)
 6. 31. Next Permutation
 7. 33. Search in Rotated Sorted Array
+8. 36. Valid Sudoku
 
 d. Linked Lists
 1. 19. Remove Nth Node From End of List
