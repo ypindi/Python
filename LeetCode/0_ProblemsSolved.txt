@@ -160,6 +160,7 @@ c. Arrays
 7. 33. Search in Rotated Sorted Array
 8. 36. Valid Sudoku
 9. 38. Count and Say
+10. 39. Combination Sum
 
 d. Linked Lists
 1. 19. Remove Nth Node From End of List
