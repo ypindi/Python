@@ -159,6 +159,7 @@ c. Arrays
 6. 31. Next Permutation
 7. 33. Search in Rotated Sorted Array
 8. 36. Valid Sudoku
+9. 38. Count and Say
 
 d. Linked Lists
 1. 19. Remove Nth Node From End of List
