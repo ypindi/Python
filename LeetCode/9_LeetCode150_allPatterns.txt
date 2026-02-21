@@ -1,0 +1,37 @@
+Check 'Roadmap.png' and 'Roadmap Advanced.png'
+
+1. Arrays
+a. 88. Merge Sorted Array
+
+
+////////////
+
+What’s missing / should be explicit
+
+Monotonic Stack (Next Greater Element, Daily Temps, Largest Rectangle, etc.)
+You have “Stack”, but monotonic stack is a whole pattern by itself.
+
+Prefix Sums + Hash Map (Subarray sum = K, 2D prefix sums)
+Often lives under Arrays/Hashing but should be called out.
+
+Union-Find (Disjoint Set Union)
+(Number of Islands II, redundant connection, Kruskal MST)
+
+Topological Sort (DAG ordering)
+(Course Schedule, build systems)
+
+Shortest Path patterns
+BFS for unweighted, Dijkstra for weighted, sometimes Bellman-Ford.
+
+Binary Search on Answer
+(Koko Eating Bananas, capacity problems) — different from “plain” binary search.
+
+Dynamic Programming subtypes
+
+0/1 Knapsack, Unbounded knapsack
+
+DP on subsequences (LIS), DP on strings
+
+Tree DP
+
+(Optional/advanced) Segment Tree / Fenwick (BIT) — shows up in harder sets.
