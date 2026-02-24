@@ -1,8 +1,9 @@
 Check 'Roadmap.png' and 'Roadmap Advanced.png'
 
 1. Arrays
-a. 88. Merge Sorted Array
-b. 27. Remove Element
+a. 88. Merge Sorted Array (Two Pointers and Sorting)
+b. 27. Remove Element (Two Pointers)
+c. 26. Remove Duplicates from Sorted Array
 
 
 ////////////
