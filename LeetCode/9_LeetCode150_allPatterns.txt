@@ -5,7 +5,7 @@ a. 88. Merge Sorted Array (Two Pointers and Sorting)
 b. 27. Remove Element (Two Pointers)
 c. 26. Remove Duplicates from Sorted Array (Two Pointers)
 d. 80. Remove Duplicates from Sorted Array II (Two Pointers)
-e. 189. Rotate Array
+e. 189. Rotate Array (Math and Two Pointers)
 
 
 ////////////
