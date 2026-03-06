@@ -8,6 +8,7 @@ d. 80. Remove Duplicates from Sorted Array II (Two Pointers)
 e. 189. Rotate Array (Math and Two Pointers)
 f. 121. Best Time to Buy and Sell Stock (Dynamic Programming)
 g. 122. Best Time to Buy and Sell Stock II (Dynamic Programming and Greedy)
+h. 55. Jump Game (Dynamic Programming and Greedy)
 
 
 ////////////
