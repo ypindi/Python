@@ -10,6 +10,7 @@ f. 121. Best Time to Buy and Sell Stock (Dynamic Programming)
 g. 122. Best Time to Buy and Sell Stock II (Dynamic Programming and Greedy)
 h. 55. Jump Game (Dynamic Programming and Greedy)
 i. 45. Jump Game II (Dynamic Programming and Greedy)
+j. 274. H-Index (Sorting and Counting Sort)
 
 
 ////////////
