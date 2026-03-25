@@ -15,7 +15,8 @@ k. 380. Insert Delete GetRandom O(1) (Hash table, Math, Design, Randomized) (Imp
 l. 238. Product of Array Except Self (Prefix Sum)
 m. 134. Gas Station (Greedy)
 n. 42. Trapping Rain Water (Two Pointers, Dynamic Programming, Stack, Monotonic Stack)
-o. 135. Candy
+o. 135. Candy (Greedy)
+p. 13. Roman to Integer (Hash table, Map, String)
 
 ////////////
 
