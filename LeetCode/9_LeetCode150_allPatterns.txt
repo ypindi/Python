@@ -16,7 +16,8 @@ l. 238. Product of Array Except Self (Prefix Sum)
 m. 134. Gas Station (Greedy)
 n. 42. Trapping Rain Water (Two Pointers, Dynamic Programming, Stack, Monotonic Stack)
 o. 135. Candy (Greedy)
-p. 13. Roman to Integer (Hash table, Map, String)
+p. 13. Roman to Integer (Hash table, Math, String)
+q. 12. Integer to Roman (Hash table, Math, String)
 
 ////////////
 
