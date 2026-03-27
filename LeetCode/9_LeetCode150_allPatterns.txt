@@ -18,6 +18,7 @@ n. 42. Trapping Rain Water (Two Pointers, Dynamic Programming, Stack, Monotonic 
 o. 135. Candy (Greedy)
 p. 13. Roman to Integer (Hash table, Math, String)
 q. 12. Integer to Roman (Hash table, Math, String)
+r. 58. Length of Last Word (String)
 
 ////////////
 
