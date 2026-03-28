@@ -25,7 +25,13 @@ u. 6. Zigzag Conversion (String)
     10_zigzagPattern.py - Python code to print Zigzag pattern
 v. 68. Text Justification (String, Simulation)
 
-////////////
+
+2. Two Pointers
+a. 125. Valid Palindrome (String)
+
+
+//////////////////////////////
+//////////////////////////////
 
 What’s missing / should be explicit
 
