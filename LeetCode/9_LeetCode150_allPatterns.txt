@@ -22,6 +22,7 @@ r. 58. Length of Last Word (String)
 s. 14. Longest Common Prefix (String, Trie)
 t. 151. Reverse Words in a String (String, Two Pointers)
 u. 6. Zigzag Conversion (String)
+    10_zigzagPattern.py - Python code to print Zigzag pattern
 
 ////////////
 
