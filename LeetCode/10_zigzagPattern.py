@@ -1,34 +1,66 @@
 class Solution:
     def printZigzag(self, s: str, numRows: int) -> None:
+        if numRows==1:
+            print(s)
+            return
+        
+        rows = [[] for _ in range(numRows)]
+        goingDown=True
+        currentRow = 0
+        for myChar in s:
+            for i in range(numRows):
+                if i==currentRow:
+                    rows[i].append(myChar)
+                else:
+                    rows[i].append(' ')
+            if currentRow==0:
+                goingDown = True
+            elif currentRow==numRows-1:
+                goingDown = False
+            if goingDown:
+                currentRow+=1
+            else:
+                currentRow-=1
+        
+        for row in rows:
+            print(' '.join(row))
+
+    def printZigzag2(self, s: str, numRows: int) -> None:
         if numRows == 1:
             print(s)
             return
 
-        rows = [[] for _ in range(numRows)]
-        current_row = 0
-        going_down = True
+        n = len(s)
+        grid = [[' ' for _ in range(n)] for _ in range(numRows)]
 
-        for ch in s:
-            # add one column
-            for r in range(numRows):
-                if r == current_row:
-                    rows[r].append(ch)
-                else:
-                    rows[r].append(' ')
+        row = 0
+        col = 0
+        i = 0
 
-            # change direction at top/bottom
-            if current_row == numRows - 1:
-                going_down = False
-            elif current_row == 0:
-                going_down = True
+        while i < n:
+            # go straight down
+            while i < n and row < numRows:
+                grid[row][col] = s[i]
+                i += 1
+                row += 1
 
-            current_row += 1 if going_down else -1
+            row -= 2
+            col += 1
 
-        for row in rows:
-            print(' '.join(row).rstrip())
+            # go diagonally up-right
+            while i < n and row > 0:
+                grid[row][col] = s[i]
+                i += 1
+                row -= 1
+                col += 1
+
+        for r in range(numRows):
+            print(''.join(grid[r]).rstrip())
 
 sol = Solution()
 sol.printZigzag("PAYPALISHIRING", 4)
+print()
+sol.printZigzag2("PAYPALISHIRING", 4)
 
 
 # PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Python> python3 .\LeetCode\10_zigzagPattern.py
@@ -36,3 +68,8 @@ sol.printZigzag("PAYPALISHIRING", 4)
 #   A       L   S       I   G
 #     Y   A       H   R
 #       P           I
+# 
+# P  I  N
+# A LS IG
+# YA HR
+# P  I
