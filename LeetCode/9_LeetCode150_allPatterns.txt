@@ -29,6 +29,7 @@ v. 68. Text Justification (String, Simulation)
 2. Two Pointers
 a. 125. Valid Palindrome (String)
 b. 392. Is Subsequence (Junior, String, Dynamic Programming)
+    11_subsequenceWithManyInputs.py
 c. 167. Two Sum II - Input Array Is Sorted (Array, Binary Search)
 d. 11. Container With Most Water (Array, Greedy)
 e. 15. 3Sum (Array, Sorting)
