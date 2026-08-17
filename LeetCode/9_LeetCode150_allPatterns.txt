@@ -47,6 +47,10 @@ a. 100. Same Tree
 a. 191. Number of 1 Bits
 b. 136. Single Number
 
+
+6. Hash Map
+a. 202. Happy Number
+
 //////////////////////////////
 //////////////////////////////
 
