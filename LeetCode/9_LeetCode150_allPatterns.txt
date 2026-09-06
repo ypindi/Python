@@ -56,6 +56,10 @@ b. 219. Contains Duplicate II
 7. Graph BFS
 a. 909. Snakes and Ladders
 
+
+8. Multi-Dimensional DP
+a. 64. Minimum Path Sum
+
 //////////////////////////////
 //////////////////////////////
 
