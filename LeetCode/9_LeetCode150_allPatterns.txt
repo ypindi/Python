@@ -60,6 +60,10 @@ a. 909. Snakes and Ladders
 8. Multi-Dimensional DP
 a. 64. Minimum Path Sum
 
+
+9. Math
+a. 69. Sqrt(x)
+
 //////////////////////////////
 //////////////////////////////
 
