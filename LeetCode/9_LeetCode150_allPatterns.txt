@@ -64,6 +64,10 @@ a. 64. Minimum Path Sum
 9. Math
 a. 69. Sqrt(x)
 
+
+10. Matrix
+a. 48. Rotate Image
+
 //////////////////////////////
 //////////////////////////////
 
