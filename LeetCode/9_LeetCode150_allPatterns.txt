@@ -68,6 +68,10 @@ a. 69. Sqrt(x)
 10. Matrix
 a. 48. Rotate Image
 
+
+11. Intervals
+a. 57. Insert Interval
+
 //////////////////////////////
 //////////////////////////////
 
