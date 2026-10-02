@@ -79,6 +79,11 @@ b. 452. Minimum Number of Arrows to Burst Balloons
 a. 71. Simplify Path
 b. 155. Min Stack
 
+
+13. Kadane's Algorithm
+a. 53. Maximum Subarray
+b. 918. Maximum Sum Circular Subarray
+
 //////////////////////////////
 //////////////////////////////
 
