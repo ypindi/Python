@@ -89,6 +89,12 @@ b. 918. Maximum Sum Circular Subarray
 a. 208. Implement Trie (Prefix Tree)
 b. 211. Design Add and Search Words Data Structure
 
+
+15. Binary Search Tree (BST)
+a. 530. Minimum Absolute Difference in BST
+b. 230. Kth Smallest Element in a BST
+
+
 //////////////////////////////
 //////////////////////////////
 
