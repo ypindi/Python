@@ -79,6 +79,7 @@ b. 452. Minimum Number of Arrows to Burst Balloons
 12. Stack
 a. 71. Simplify Path
 b. 155. Min Stack
+c. 150. Evaluate Reverse Polish Notation
 
 
 13. Kadane's Algorithm
