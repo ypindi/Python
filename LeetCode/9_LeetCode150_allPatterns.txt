@@ -98,6 +98,10 @@ a. 530. Minimum Absolute Difference in BST
 b. 230. Kth Smallest Element in a BST
 
 
+16. Linked List
+a. 2. Add Two Numbers
+
+
 //////////////////////////////
 //////////////////////////////
 
