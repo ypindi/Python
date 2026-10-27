@@ -106,6 +106,7 @@ d. 92. Reverse Linked List II
     206. Reverse Linked List
 e. 19. Remove Nth Node From End of List
 f. 82. Remove Duplicates from Sorted List II
+g. 61. Rotate List
 
 
 //////////////////////////////
