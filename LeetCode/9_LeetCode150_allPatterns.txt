@@ -108,6 +108,7 @@ e. 19. Remove Nth Node From End of List
 f. 82. Remove Duplicates from Sorted List II
 g. 61. Rotate List
 h. 86. Partition List
+i. 146. LRU Cache (Hash table, double linked list, design) (Important)
 
 
 //////////////////////////////
