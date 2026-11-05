@@ -71,6 +71,7 @@ b. 172. Factorial Trailing Zeroes
 10. Matrix
 a. 48. Rotate Image
 b. 73. Set Matrix Zeroes (Array, Hash Table)
+c. 289. Game of Life (Array, Simulation)
 
 
 11. Intervals
