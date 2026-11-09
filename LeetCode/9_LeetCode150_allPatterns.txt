@@ -41,7 +41,8 @@ a. 209. Minimum Size Subarray Sum (Array, Binary Search, Prefix Sum)
 
 4. Binary Tree General
 a. 100. Same Tree
-b. 226. Invert Binary Tree
+b. 226. Invert Binary Tree (Tree, DFS, BFS, Binary Tree)
+c. 101. Symmetric Tree (Tree, DFS, BFS, Binary Tree)
 
 
 5. Bit Manipulation
