@@ -44,6 +44,7 @@ a. 100. Same Tree
 b. 226. Invert Binary Tree (Tree, DFS, BFS, Binary Tree)
 c. 101. Symmetric Tree (Tree, DFS, BFS, Binary Tree)
 d. 105. Construct Binary Tree from Preorder and Inorder Traversal (Array, Hash Table, Divide and Conquer)
+e. 106. Construct Binary Tree from Inorder and Postorder Traversal (Array, Hash Table, Divide and Conquer)
 
 
 5. Bit Manipulation
