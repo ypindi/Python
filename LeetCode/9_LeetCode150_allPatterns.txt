@@ -50,6 +50,7 @@ g. 114. Flatten Binary Tree to Linked List (Linked List, Stack, DFS)
 h. 112. Path Sum (DFS, BFS)
 i. 129. Sum Root to Leaf Numbers (DFS)
 j. 124. Binary Tree Maximum Path Sum
+k. 173. Binary Search Tree Iterator (Stack, BST, Iterator)
 
 
 5. Bit Manipulation
